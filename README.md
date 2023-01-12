@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Iyad Ahmed
+- 👀 I’m interested in all things about computers
+- 🌱 I’m currently learning computer graphics and computational geometry
+- 💞️ I’m looking to collaborate on unique projects
+- 📫 How to reach me iyadahmed430@gmail.com
